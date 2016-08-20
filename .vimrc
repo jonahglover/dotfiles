@@ -122,7 +122,7 @@ filetype plugin indent on    " required
 "================"
 " VUNDLE OPTIONS "
 "================"
-
+"
 set background=dark
 colorscheme vividchalk
 
